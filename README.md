@@ -1,16 +1,17 @@
-﻿# Final_SCD_Q1
- #Run npm install and npm start for each service
- #Then check the service by running the locally
- #Then make Docker file for each servoce
- #The run the command docker build -t image_name . for each service
- #Then run docker run -d --name container_name -p hostport:containerport image_name
- #verify by checking doker desktop
- #Make .github/workflows/ci.yml file
- #push to github by using:
- #1.git init
- #2.git add .
- #3.git remote origin url
- #4.git push origin main
- #Then run github actions
- #Test Apis
+﻿# Final_SCD_Q1 <br /> 
+ #Run npm install and npm start for each service <br /> 
+ #Then check the service by running the locally <br /> 
+ #Then make Docker file for each servoce <br /> 
+ #The run the command docker build -t image_name . for each service <br /> 
+ #Then run docker run -d --name container_name -p hostport:containerport image_name <br /> 
+ #verify by checking doker desktop <br /> 
+ #Make .github/workflows/ci.yml file <br /> 
+ #push to github by using: <br /> 
+ #1.git init <br /> 
+ #2.git add . <br /> 
+ #3.git remote origin   url <br />
+ #4.git push origin main <br /> 
+ #Then run github actions <br /> 
+ #Test Apis <br /> 
+
 
